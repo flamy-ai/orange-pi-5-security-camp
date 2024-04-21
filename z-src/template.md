@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/instructions/style.css">
+<link rel="stylesheet" href="/z-src/style.css">
 
 # Title
 
@@ -13,4 +13,6 @@
 1. Something
 2. more
 
-[Table of Contents](/README.md){: .btn}
+[<kbd> <br> Table of Contents <br> </kbd>](/README.md)
+
+[<kbd> <br> KeyBinding Button <br> </kbd>](/README.md)
