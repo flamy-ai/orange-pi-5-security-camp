@@ -1,21 +1,48 @@
-# Title
+<h1 align=center>Title</h1>
 
-## Section
+<h2 align=center>Section</h2>
+
 1. Do this
 2. and this
     1. Note: blah
     2. subpoint
 3. last
 
-## Section
+<h2 align=center>Section</h2>
+
 1. Something
 2. more
 
-<br><br><br>
+<h2 align=center>Section</h2>
 
+1. Do this
+2. and this
+    1. Note: blah
+    2. subpoint
+3. last
 
-<table width=100%>
-    <tr width=100%>
+<h2 align=center>Section</h2>
+
+1. Something
+2. more
+
+<h2 align=center>Section</h2>
+
+1. Do this
+2. and this
+    1. Note: blah
+    2. subpoint
+3. last
+
+<h2 align=center>Section</h2>
+
+1. Something
+2. more
+
+<br>
+
+<table align=center>
+    <tr>
         <td>
 
 [Go Back](/README.md)
@@ -28,30 +55,3 @@
         </td>
     </tr>
 </table>
-
-
-
-
-<p style="display:flex;justify-content:space-between;">
-    <span align="left">
-
-[Previous](/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </span>
-    <span align="right">
-
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[Continue](/README.md)
-    </span>
-</p>
-
-<div align="center">
-
-<br>
-
-[Table of Contents](/README.md)
-
-</div>
-
-
-<p align=left width=10% display=inline-block>LEFT</p>
-<p align=right width=10% display=inline-block>RIGHT</p>
