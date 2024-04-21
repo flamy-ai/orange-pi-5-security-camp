@@ -20,10 +20,9 @@
 
 <p style="text-align:left;">
 
-
-    [Previous](/README.md)
+[Previous](/README.md)
     <span style="float:right;">
-        This text is right aligned
+[Continue](/README.md)
     </span>
 </p>
 
