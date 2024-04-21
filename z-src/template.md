@@ -13,6 +13,4 @@
 1. Something
 2. more
 
-[<kbd> <br> Table of Contents <br> </kbd>](/README.md)
-
-[<kbd> <br> KeyBinding Button <br> </kbd>](/README.md)
+[<button class="table-of-contents">Table of Contents</button>](/README.md)
