@@ -13,4 +13,4 @@
 1. Something
 2. more
 
-[<button class="table-of-contents">Table of Contents</button>](/README.md)
+[Table of Contents](/README.md)
