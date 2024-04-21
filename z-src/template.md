@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="/z-src/style.css">
-
 # Title
 
 ## Section
@@ -14,20 +12,46 @@
 2. more
 
 <br><br><br>
-<div align="center">
 
-[Previous](/README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Continue](/README.md)
 
-<p style="text-align:left;">
+<table width=100%>
+    <tr width=100%>
+        <td>
 
-[Previous](/README.md)
-    <span style="float:right;">
+[Go Back](/README.md)
+        </td>
+        <td>
+[Table of Contents](/README.md)
+        </td>
+        <td>
+[Continue](/README.md)
+        </td>
+    </tr>
+</table>
+
+
+
+
+<p style="display:flex;justify-content:space-between;">
+    <span align="left">
+
+[Previous](/README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </span>
+    <span align="right">
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Continue](/README.md)
     </span>
 </p>
+
+<div align="center">
 
 <br>
 
 [Table of Contents](/README.md)
 
 </div>
+
+
+<p align=left width=10% display=inline-block>LEFT</p>
+<p align=right width=10% display=inline-block>RIGHT</p>
