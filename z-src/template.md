@@ -16,11 +16,19 @@
 <br><br><br>
 <div align="center">
 
+[Previous](/README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Continue](/README.md)
+
+<p style="text-align:left;">
+
+
+    [Previous](/README.md)
+    <span style="float:right;">
+        This text is right aligned
+    </span>
+</p>
+
+<br>
+
 [Table of Contents](/README.md)
-
-</div>
-<div align="right">
-
-[Next Section](/README.md)
 
 </div>
