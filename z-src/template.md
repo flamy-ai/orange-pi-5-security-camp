@@ -13,4 +13,14 @@
 1. Something
 2. more
 
+<br><br><br>
+<div align="center">
+
 [Table of Contents](/README.md)
+
+</div>
+<div align="right">
+
+[Next Section](/README.md)
+
+</div>
