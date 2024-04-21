@@ -1,7 +1,7 @@
 # Table of Contents:
 
 ## Day 1:
-- Open packages and take inventory.
+- [Unboxing and Taking Inventory](instructions/monday/unboxing.md)
 - More...
 
 ## Day 2:
@@ -9,7 +9,7 @@
 - Blah...
 
 ## Day 3:
-- Open packages and take inventory.
+- something
 - More...
 
 ## Day 4:
@@ -17,7 +17,7 @@
 - Blah...
 
 ## Day 5:
-- Open packages and take inventory.
+- something
 - More...
 
 ## Troubleshooting:
