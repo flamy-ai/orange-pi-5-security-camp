@@ -43,6 +43,6 @@
 
 <h1 align=center>About</h1>
 
-This project is for AI Security Camp. if you would like to do this at home, you absolutely can, but there is not support unless you attended camp.
+This project is for AI Security Camp. If you would like to do this at home, you absolutely can, but support will not be provided unless you attended camp.
 - [Materials]()
 - e
