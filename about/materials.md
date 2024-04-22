@@ -10,6 +10,8 @@
   - Only good brands like KIOXIA (Toshiba), Samsung, etc.
 - MicroSD card
   - We picked up some very high quality Samsung MicroSD cards with good performance at a low cost.
+- PoE+(+) Network Switch
+  - TP-Link 
 - 
 
 <h2 align=center>Other Camp Materials</h2>
@@ -20,7 +22,9 @@
 - Keyboard and Monitor
   - These are for installing the Operating System on the Orange Pi, after that you won't need them.
     - (You could hook up your computer to them, but that's irrelevant.)
-- e
+- Installation Media - USB Flash Drive
+  - Linux Distro Installer
+- 
 
 <br><br><br>
 
