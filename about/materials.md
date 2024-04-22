@@ -18,7 +18,8 @@
   - You will be accessing the web interface of the Orange Pi. A Terminal is also helpful for sending commands to the Orange Pi remotely (`ssh`).
   - Laptops are best, tablets (Android or iPadOS) can work but you had better bring a physical keyboard. Termius is a good remote terminal (so `ssh` app).
 - Keyboard and Monitor
-  - These are for installing the Operating System on the Orange Pi, after that you won't need them. (You could of course hook up your computer to them but that's irrelevant.)
+  - These are for installing the Operating System on the Orange Pi, after that you won't need them.
+    - (You could hook up your computer to them, but that's irrelevant.)
 - e
 
 <h2 align=center>Section</h2>
