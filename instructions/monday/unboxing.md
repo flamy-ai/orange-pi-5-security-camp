@@ -5,13 +5,18 @@
 1. You need to have:
     - Your Computer
     - Orange Pi 5 Single-Board Computer
+    - Case for Orange Pi 5
     - Keyboard and Monitor
       - Note: You only need these to first set up the Orange Pi 5, afterwards you will access the Orange Pi 5 remotely with your computer.
-    - e
+    - <h3>Install Medium (Change this later)</h3>
     - M.2 SSD
     - MicroSD card
-    - 
-3. last
+    - PoE Network Switch
+      - We have a TP-Link switch. This allows the Orange Pi to communicate with the Camera, and with the internet.
+    - Security Camera
+    - 3 Ethernet Cables
+      - We have Cat 6 cable. These cables connect devices to your network switch.
+2. If you are missing something ask for help.
 
 <h2 align=center>Section</h2>
 
