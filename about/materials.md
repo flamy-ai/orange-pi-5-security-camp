@@ -22,18 +22,22 @@
     - (You could hook up your computer to them, but that's irrelevant.)
 - e
 
-<h2 align=center>Section</h2>
+<br><br><br>
 
-1. Do this
-2. and this
-    1. Note: blah
-    2. subpoint
-3. last
+<h1 align=center>Not For Camp</h1>
 
-<h2 align=center>Section</h2>
+<h2 align=center>Easy DIY Materials</h2>
 
-1. Something
-2. more
+- Build a PC
+  - parts, examples (change this at a later date)
+- (more info coming soon)
+
+<h2 align=center>Experimental Idea</h2>
+
+- Obtain a Qualcomm Snapdragon 8cx Gen 3 Developer Kit
+  - Fight with trying to install a Linux Distro. This platform was entirely intended for Windows.
+  - parts, examples (change this at a later date)
+- (more info coming soon)
 
 <h2 align=center>Section</h2>
 
