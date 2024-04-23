@@ -62,13 +62,7 @@
     <tr>
         <td>
 
-[Go Back](/README.md)
-        </td>
-        <td>
 [Table of Contents](/README.md)
-        </td>
-        <td>
-[Continue](/README.md)
         </td>
     </tr>
 </table>
