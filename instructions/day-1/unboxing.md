@@ -16,36 +16,7 @@
 - 3 Ethernet Cables
   - We have Cat 6 cable. These cables connect devices to your network switch.
 
-<h2 align=center>Section</h2>
-
-1. Something
-2. more
-
-<h2 align=center>Section</h2>
-
-1. Do this
-2. and this
-    1. Note: blah
-    2. subpoint
-3. last
-
-<h2 align=center>Section</h2>
-
-1. Something
-2. more
-
-<h2 align=center>Section</h2>
-
-1. Do this
-2. and this
-    1. Note: blah
-    2. subpoint
-3. last
-
-<h2 align=center>Section</h2>
-
-1. Something
-2. more
+<h2 align=center>Anything Missing? Ask for Help</h2>
 
 <br>
 
