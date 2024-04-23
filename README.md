@@ -2,7 +2,7 @@
 
 <h2>Day 1</h2>
 
-- [Unboxing and Taking Inventory](instructions/day-1/unboxing.md)
+- [Unboxing and Taking Inventory](/instructions/day-1/unboxing.md)
 - More...
 
 <h2>Day 2</h2>
@@ -44,5 +44,5 @@
 <h1 align=center>About</h1>
 
 This project is for AI Security Camp. If you would like to do this at home, you absolutely can, but support will not be provided unless you attended camp.
-- [Materials]()
+- [Materials](/about/materials.md)
 - e
