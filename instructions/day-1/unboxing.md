@@ -16,7 +16,16 @@
 - 3 Ethernet Cables
   - We have Cat 6 cable. These cables connect devices to your network switch.
 
-<h2 align=center>Anything Missing? Ask for Help</h2>
+<h3 align=center>Anything Missing? Ask for Help</h3>
+
+<br>
+
+<h2 align=center>Unbox the following:</h2>
+
+- Orange Pi
+- M.2 SSD
+- PoE Network Switch
+- Ethernet Cables
 
 <br>
 
