@@ -23,6 +23,7 @@
 <h2 align=center>Unbox the following:</h2>
 
 - Orange Pi
+- MicroSD card
 - M.2 SSD
 - PoE Network Switch
 - Ethernet Cables
