@@ -3,7 +3,7 @@
 <h2>Day 1</h2>
 
 - [Unboxing and Taking Inventory](/instructions/day-1/unboxing.md)
-- More...
+- [OS Installation](/instructions/day-1/os-install.md)
 
 <h2>Day 2</h2>
 
