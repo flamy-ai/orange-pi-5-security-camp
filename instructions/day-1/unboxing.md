@@ -1,5 +1,7 @@
 <h1 align=center>Unboxing and Taking Inventory</h1>
 
+<br>
+
 <h2 align=center>Check that you have all of the following:</h2>
 
 - Your Computer
@@ -16,9 +18,11 @@
 - 3 Ethernet Cables
   - We have Cat 6 cable. These cables connect devices to your network switch.
 
+<br>
+
 <h3 align=center>Anything Missing? Ask for Help</h3>
 
-<br>
+<br><br><br>
 
 <h2 align=center>Unbox the following:</h2>
 
@@ -28,7 +32,7 @@
 - PoE Network Switch
 - Ethernet Cables
 
-<br>
+<br><br><br>
 
 <table align=center>
     <tr>
@@ -38,7 +42,7 @@
 [Table of Contents](/README.md)
         </td>
         <td>
-[Continue](/README.md)
+[Continue](/instructions/day-1/os-install.md)
         </td>
     </tr>
 </table>
