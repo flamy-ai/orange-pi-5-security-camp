@@ -32,6 +32,8 @@
    <img width=40% src="/src/img/balenaetcher-main-screen-flash.png">
 6. When it asks **Do you want to allow this app to make changes to your computer?** and shows **Windows Command Processor**, click **Yes**.
 
+   <img width=40% src="/src/img/balenaetcher-uac-prompt.png">
+
 <br><br><br>
 
 <h2 align=center>Section</h2>
