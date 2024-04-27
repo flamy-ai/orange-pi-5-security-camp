@@ -9,6 +9,7 @@
 - Case for Orange Pi 5
 - M.2 SSD
 - MicroSD card
+- MicroSD card adapter
 - PoE Network Switch
   - We have a TP-Link switch. This allows the Orange Pi to communicate with the Camera, and with the internet.
 - Security Camera
@@ -23,8 +24,10 @@
 
 <h2 align=center>Unbox the following:</h2>
 
-- Orange Pi
+- Orange Pi 5
+  - Simply open the box so that you can access the board later.
 - MicroSD card
+  - You can go ahead and put this in the adapter.
 - M.2 SSD
 - PoE Network Switch
 - Ethernet Cables
