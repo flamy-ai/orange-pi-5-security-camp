@@ -7,9 +7,6 @@
 - Your Computer
 - Orange Pi 5 Single-Board Computer
 - Case for Orange Pi 5
-- Keyboard and Monitor
-  - Note: You only need these to first set up the Orange Pi 5, afterwards you will access the Orange Pi 5 remotely with your computer.
-- <h3>Install Medium (Change this later)</h3>
 - M.2 SSD
 - MicroSD card
 - PoE Network Switch
