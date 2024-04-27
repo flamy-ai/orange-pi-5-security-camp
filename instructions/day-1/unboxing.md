@@ -11,11 +11,11 @@
 - MicroSD card
 - MicroSD card adapter
 - PoE Network Switch
-  - We have a TP-Link switch. This allows the Orange Pi to communicate with the Camera, and with the internet.
+    - We have a TP-Link switch. This allows the Orange Pi to communicate with the Camera, and with the internet.
 - PoE Splitter USB Type C
 - Security Camera
 - 4 Ethernet Cables
-  - We have Cat 6 cable. These cables connect devices to your network switch.
+    - We have Cat 6 cable. These cables connect devices to your network switch.
 
 <br>
 
@@ -26,9 +26,9 @@
 <h2 align=center>Unbox the following:</h2>
 
 - Orange Pi 5
-  - Simply open the box so that you can access the board later.
+    - Simply open the box so that you can access the board later.
 - MicroSD card
-  - You can go ahead and put this in the adapter.
+    - You can go ahead and put this in the adapter.
 - M.2 SSD
 - PoE Network Switch
 - PoE Splitter USB Type C
