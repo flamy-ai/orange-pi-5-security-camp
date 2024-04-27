@@ -14,7 +14,7 @@
   - We have a TP-Link switch. This allows the Orange Pi to communicate with the Camera, and with the internet.
 - PoE Splitter USB Type C
 - Security Camera
-- 3 Ethernet Cables
+- 4 Ethernet Cables
   - We have Cat 6 cable. These cables connect devices to your network switch.
 
 <br>
