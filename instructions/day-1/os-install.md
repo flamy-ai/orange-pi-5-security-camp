@@ -41,13 +41,13 @@
     <tr>
         <td>
 
-[Go Back](/README.md)
+[Go Back](/instructions/day-1/unboxing.md)
         </td>
         <td>
 [Table of Contents](/README.md)
         </td>
         <td>
-[Continue](/README.md)
+[Continue](/instructions/day-1/setup-orange-pi-5.md)
         </td>
     </tr>
 </table>
