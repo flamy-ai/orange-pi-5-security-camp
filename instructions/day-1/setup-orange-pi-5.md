@@ -78,7 +78,7 @@
     <tr>
         <td>
 
-[Go Back](/README.md)
+[Go Back](/instructions/day-1/os-install.md)
         </td>
         <td>
 [Table of Contents](/README.md)
