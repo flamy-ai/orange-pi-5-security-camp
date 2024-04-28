@@ -40,13 +40,11 @@
 
 <br><br><br>
 
-<h2 align=center>Section</h2>
+<h2 align=center>Putting on the Case</h2>
 
-1. Do this
-2. and this
-    1. Note: blah
-    2. subpoint
-3. last
+1. Get all the parts for the case (what was in the box for the case).
+2. **[Optional Step]** Install the rubber grommets in the antenna holes. (We aren't using WiFi so we don't have antennas.)
+3. 
 
 <br><br><br>
 
