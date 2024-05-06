@@ -6,7 +6,7 @@
 
 - [Unboxing and Taking Inventory](/instructions/day-1/unboxing.md)
 - [OS Installation](/instructions/day-1/os-install.md)
-- [Setting Up Your Orange Pi 5](/instructions/day-1/setup-orange-pi-5.md)
+- [Assembling Your Orange Pi 5](/instructions/day-1/assemble-orange-pi-5.md)
 
 <br><br>
 
