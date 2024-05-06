@@ -47,7 +47,7 @@
 [Table of Contents](/README.md)
         </td>
         <td>
-[Continue](/instructions/day-1/setup-orange-pi-5.md)
+[Continue](/instructions/day-1/assemble-orange-pi-5.md)
         </td>
     </tr>
 </table>
