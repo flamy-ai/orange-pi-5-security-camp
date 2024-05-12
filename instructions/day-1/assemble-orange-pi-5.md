@@ -1,3 +1,5 @@
+[thermal pad]: /more/terminology.md#thermal-pad "d"
+
 <h1 align=center>Assembling Your Orange Pi 5</h1>
 
 <br>
@@ -50,11 +52,21 @@
 4. Remove the thermal pads from the bag so that we can apply them.
 
    <img width=40% src="/src/img/orange-pi-case-thermal-pads.jpg">
-5. The thermal pads contact the chips on the motherboard and the heatsink (the big chunk of metal) on the case.
+5. The [thermal pad]s contact the big, square, shiny chip (which is the SoC or System-on-Chip) and the 2 smaller, rectangular, black chips (which are RAM or Random-Access Memory) on the motherboard. The other side of the thermal pads contact the heatsink (the big chunk of metal) on the case.
 
    <img width=40% src="/src/img/orange-pi-chips-to-cool.jpg">
    <img width=40% src="/src/img/orange-pi-case-heatsink.jpg">
-6. 
+
+<br>
+
+<h3 align=center>You will now apply the thermal pads one at a time.</h3>
+
+<br>
+
+6. Start by getting one of the two smaller ones and peeling off the plastic film from only one side of the thermal pad.
+
+   <img width=40% src="/">
+7. 
 
 <br><br><br>
 
