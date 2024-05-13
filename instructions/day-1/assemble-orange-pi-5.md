@@ -1,4 +1,9 @@
-[thermal pad]: /more/terminology.md#thermal-pad "d"
+[thermal pad]: /more/terminology.md#thermal-pad "Soft pad that conducts heat away from computer chips."
+[soc]: /more/terminology.md#soc-system-on-chip "System-on-Chip: includes multiple processors with different functions in a single chip."
+[cpu]: /more/terminology.md#cpu-central-processing-unit "Central Processing Unit: main computing chip, the brains."
+[ram]: /more/terminology.md#ram-random-access-memory "Random-Access Memory: stores data the computer is currently working on."
+[gpu]: /more/terminology.md#gpu-graphics-processing-unit "Graphics Processing Unit: processes visual tasks, like games."
+[npu]: /more/terminology.md#npu-neural-processing-unit "Neural Processing Unit: processes neural networks (AI)"
 
 <h1 align=center>Assembling Your Orange Pi 5</h1>
 
@@ -46,13 +51,13 @@
 
 1. Get all the parts for the case (what was in the box for the case).
 2. **[Optional Step]** Install the rubber grommets in the antenna holes. (We aren't using WiFi so we don't have antennas.)
-3. Get the bag with the thermal pads and the foam feet.
+3. Get the bag with the [thermal pad]s and the foam feet.
 
    <img width=40% src="/src/img/orange-pi-case-thermal-pad-and-feet-bagged.jpg">
-4. Remove the thermal pads from the bag so that we can apply them.
+4. Remove the [thermal pad]s from the bag so that we can apply them.
 
    <img width=40% src="/src/img/orange-pi-case-thermal-pads.jpg">
-5. The [thermal pad]s contact the big, square, shiny chip (which is the SoC or System-on-Chip) and the 2 smaller, rectangular, black chips (which are RAM or Random-Access Memory) on the motherboard. The other side of the thermal pads contact the heatsink (the big chunk of metal) on the case.
+5. The [thermal pad]s contact the big, square, shiny chip (which is the SoC or System-on-Chip) and the 2 smaller, rectangular, black chips (which are RAM or Random-Access Memory) on the motherboard. The other side of the [thermal pad]s contact the heatsink (the big chunk of metal) on the case.
 
    <img width=40% src="/src/img/orange-pi-chips-to-cool.jpg">
    <img width=40% src="/src/img/orange-pi-case-heatsink.jpg">
@@ -63,7 +68,7 @@
 
 <br>
 
-6. Start by getting one of the two smaller ones and peeling off the plastic film from only one side of the thermal pad.
+6. Start by getting one of the two smaller ones and peeling off the plastic film from only one side of the [thermal pad].
 
    <img width=40% src="/">
 7. 
