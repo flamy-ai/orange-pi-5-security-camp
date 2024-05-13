@@ -1,4 +1,5 @@
 [thermal pad]: /more/terminology.md#thermal-pad "Soft pad that conducts heat away from computer chips."
+[heatsink]: /more/terminology.md#heatsink "Large hunk of metal that absorbs heat and cools computer chips."
 [soc]: /more/terminology.md#soc-system-on-chip "System-on-Chip: includes multiple processors with different functions in a single chip."
 [cpu]: /more/terminology.md#cpu-central-processing-unit "Central Processing Unit: main computing chip, the brains."
 [ram]: /more/terminology.md#ram-random-access-memory "Random-Access Memory: stores data the computer is currently working on."
@@ -13,7 +14,11 @@
 
 <h3>Thermal Pad</h3>
 
-- This is a soft pad that conducts heat well and goes between a heat-generating component (such as a computer chip) and a heatsink (which is a large piece of metal).
+- This is a soft pad that conducts heat well and goes between a heat-generating component (such as a computer chip) and a [heatsink].
+
+<h3>Heatsink</h3>
+
+- Large piece of conductive metal that absorbs heat from a computer chip. Often has a thermal interface material (thermal paste or [thermal pad]) between the heatsink and the chip and often has a high-surface area finned side opposite the computer chip to disperse heat into the air (often with a fan) and in some instances will have water cooling.
 
 <br><br><br>
 
