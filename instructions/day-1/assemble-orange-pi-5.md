@@ -1,4 +1,5 @@
 [thermal pad]: /more/terminology.md#thermal-pad "Soft pad that conducts heat away from computer chips."
+[heatsink]: /more/terminology.md#heatsink "Large hunk of metal that absorbs heat and cools computer chips."
 [soc]: /more/terminology.md#soc-system-on-chip "System-on-Chip: includes multiple processors with different functions in a single chip."
 [cpu]: /more/terminology.md#cpu-central-processing-unit "Central Processing Unit: main computing chip, the brains."
 [ram]: /more/terminology.md#ram-random-access-memory "Random-Access Memory: stores data the computer is currently working on."
@@ -57,7 +58,7 @@
 4. Remove the [thermal pad]s from the bag so that we can apply them.
 
    <img width=40% src="/src/img/orange-pi-case-thermal-pads.jpg">
-5. The [thermal pad]s contact the big, square, shiny chip (which is the SoC or System-on-Chip) and the 2 smaller, rectangular, black chips (which are RAM or Random-Access Memory) on the motherboard. The other side of the [thermal pad]s contact the heatsink (the big chunk of metal) on the case.
+5. The [thermal pad]s contact the big, square, shiny [SoC] and the 2 smaller, rectangular, black [RAM] chips on the motherboard. The other side of the [thermal pad]s contact the [heatsink] on the case.
 
    <img width=40% src="/src/img/orange-pi-chips-to-cool.jpg">
    <img width=40% src="/src/img/orange-pi-case-heatsink.jpg">
@@ -65,13 +66,17 @@
 <br>
 
 <h3 align=center>You will now apply the thermal pads one at a time.</h3>
+<p align=center>If you damage or destroy any thermal pads just show us and we'll help you. We have spares.</p>
 
 <br>
 
-6. Start by getting one of the two smaller ones and peeling off the plastic film from only one side of the [thermal pad].
+6. Start by getting one of the two smaller [thermal pad]s and peeling off the plastic film exposing from only one side of a single [thermal pad].
 
    <img width=40% src="/">
-7. 
+7. Carefully, preferably without touching the exposed side (even if you touch it, use it), lower the [thermal pad] onto the black [RAM] chip.
+
+   <img width=40% src="/">
+8. Now you should very carefully align it with the white, dashed lines on the [motherboard]. Gently push on the edges of the [thermal pad] to adjust the position of the [thermal pad].
 
 <br><br><br>
 
