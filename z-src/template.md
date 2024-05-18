@@ -18,6 +18,20 @@
     1. Note: blah
     2. subpoint
 3. last also the [thermal pad]s and the [CPU] and the [SoC] can have links, the references to the top using the brackets are case insensitive. Hover over these links to see the short description.
+4. <details>
+      <summary>
+         Dropdown Click Me to Open
+      </summary>
+      <p>
+      
+      1. Blah
+      
+         <img width=40% src="/">
+      2. Blah [thermal pad]
+      3. e
+      </p>
+   </details>
+5. more Blah
 
 <br><br><br>
 
