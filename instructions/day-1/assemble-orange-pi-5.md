@@ -76,7 +76,13 @@
 7. Carefully, preferably without touching the exposed side (even if you touch it, use it), lower the [thermal pad] onto the black [RAM] chip.
 
    <img width=40% src="/">
-8. Now you should very carefully align it with the white, dashed lines on the [motherboard]. Gently push on the edges of the [thermal pad] to adjust the position of the [thermal pad].
+8. Now you should very carefully align the [thermal pad] with the white, dashed lines on the [motherboard]. Gently push sideways on the edge of the [thermal pad] to align it.
+
+   <img width=40% src="/">
+9. After you have aligned the thermal pad, lay your finger (don't poke it with your fingernail, look at the picture below) on the [thermal pad] (which still has a plastic film on it, do not peel yet) and apply gentle but firm, downward force so that the [thermal pad] will stay on the [motherboard] chip.
+
+   <img width=40% src="/">
+10. <details><summary>Dropdown Name</summary><p>Text</p></details>
 
 <br><br><br>
 
