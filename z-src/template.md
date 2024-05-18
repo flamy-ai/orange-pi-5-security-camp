@@ -37,8 +37,17 @@
 
 <h2 align=center>Section</h2>
 
-1. Something
-2. more
+Code:
+
+`
+Test non-block code
+`
+
+    Not great way to do Code Block
+
+```
+Best Code Block
+```
 
 <br><br><br>
 
