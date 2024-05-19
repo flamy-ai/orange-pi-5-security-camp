@@ -70,16 +70,16 @@
 
 4. Take one of the two smaller [thermal pad]s and peel off the plastic film to expose only one side of the [thermal pad].
 
-   <img width=40% src="/">
+   <img width=40% src="/src/img/orange-pi-thermal-pad-1-peel-1.jpg">
 5. Carefully, preferably without touching the exposed side, (even if you touch it, use it,) lower the [thermal pad] onto the black [RAM] chip.
 
-   <img width=40% src="/">
+   <img width=40% src="/src/img/orange-pi-thermal-pad-1-application.jpg">
 6. Now you should very carefully align the [thermal pad] with the white, dashed lines on the [motherboard]. Gently push sideways on the edge of the [thermal pad] to align it.
 
-   <img width=40% src="/">
+   <img width=40% src="/src/img/orange-pi-thermal-pad-1-alignment.jpg">
 7. After you have aligned the thermal pad, lay your finger (don't poke it with your fingernail, look at the picture below) on the [thermal pad] (which still has a plastic film on it, do not peel yet) and apply gentle but firm, downward force so that the [thermal pad] will stay on the [RAM] chip.
 
-   <img width=40% src="/">
+   <img width=40% src="/src/img/orange-pi-thermal-pad-1-pressure.jpg">
 8. <details>
       <summary>
          Click to expand this dropdown. (This is a repeat of steps 4-7). Complete this before moving on.
@@ -88,27 +88,30 @@
       
       1. Take the largest [thermal pad] and peel off the plastic film to expose only one side of the [thermal pad].
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-2-peel-1.jpg">
       2. Carefully, preferably without touching the exposed side, (even if you touch it, use it,) lower the [thermal pad] onto the shiny [SoC].
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-2-application.jpg">
       3. Now you should very carefully align the [thermal pad] with the white, dashed lines on the [motherboard]. Gently push sideways on the edge of the [thermal pad] to align it.
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-2-alignment.jpg">
       4. After you have aligned the thermal pad, lay your finger (don't poke it with your fingernail, look at the picture below) on the [thermal pad] (which still has a plastic film on it, do not peel yet) and apply gentle but firm, downward force so that the [thermal pad] will stay on the [SoC].
+
+         <img width=40% src="/src/img/orange-pi-thermal-pad-2-pressure.jpg">
       5. Take the remaining smaller [thermal pad] and peel off the plastic film to expose only one side of the [thermal pad].
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-3-peel-1.jpg">
       6. Carefully, preferably without touching the exposed side, (even if you touch it, use it,) lower the [thermal pad] onto the black [RAM] chip.
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-3-application.jpg">
       7. Now you should very carefully align the [thermal pad] with the white, dashed lines on the [motherboard]. Gently push sideways on the edge of the [thermal pad] to align it.
 
-         <img width=40% src="/">
+         <img width=40% src="/src/img/orange-pi-thermal-pad-3-alignment.jpg">
       8. After you have aligned the thermal pad, lay your finger (don't poke it with your fingernail, look at the picture below) on the [thermal pad] (which still has a plastic film on it, do not peel yet) and apply gentle but firm, downward force so that the [thermal pad] will stay on the [RAM] chip.
+
+         <img width=40% src="/src/img/orange-pi-thermal-pad-3-pressure.jpg">
       </p>
    </details>
-9. thing
 
 <br><br><br>
 
