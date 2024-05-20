@@ -33,7 +33,11 @@ sudo timedatectl set-timezone America/New_York
 sudo wget -P /opt/docker/frigate/ https://raw.githubusercontent.com/flamy-ai/orange-pi-5-security-cam
 p/master/src/docker-compose.yml
 ```
-6. 
+6. Add IP to Orange Pi which allows it to access camera subnet.
+```
+sudo ip addr add dev eth0 172.21.4.1/22
+```
+7. 
 
 <br><br><br>
 
