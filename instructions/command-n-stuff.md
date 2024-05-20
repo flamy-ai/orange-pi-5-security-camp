@@ -15,9 +15,13 @@
 Note: For IPs on Cams and virtual adapter on Orange Pi 5 i'm using 172.21.4.1/22 so subnet mask 255.255.252.0 and I set Orange Pi 5 to 172.21.4.1 and Gateway to 172.21.4.2 and first camera to 172.21.4.3
 
 
-1. Hello
+1. One of the first if not first, setup Avahi for mDNS
 ```
-Best Code Block
+sudo apt install -y avahi-daemon
+```
+and this
+```
+sudo systemctl restart avahi-daemon
 ```
 2. Thing
 ```
