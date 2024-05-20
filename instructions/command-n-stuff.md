@@ -19,7 +19,11 @@ Note: For IPs on Cams and virtual adapter on Orange Pi 5 i'm using 172.21.4.1/22
 ```
 sudo apt install -y avahi-daemon
 ```
-and this
+change hostname (to whatever you want)
+```
+sudo hostname orangepi
+```
+and this is probably not needed since we'll copy to nvme and restart:
 ```
 sudo systemctl restart avahi-daemon
 ```
