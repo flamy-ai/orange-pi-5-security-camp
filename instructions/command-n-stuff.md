@@ -21,7 +21,7 @@ sudo apt install -y avahi-daemon
 ```
 change hostname (to whatever you want)
 ```
-sudo hostname orangepi
+sudo hostnamectl hostname orangepi
 ```
 and this is probably not needed since we'll copy to nvme and restart:
 ```
